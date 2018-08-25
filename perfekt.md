@@ -1,9 +1,7 @@
 # Song Visualization: Working at Perfekt
 
-<iframe src="https://www.youtube.com/embed/IisWePK0dFM" 
-frameborder="0" allowfullscreen></iframe>
 
-Working at Perfekt is one of my favorite songs from Geddy Lee's solo album [My Favorite Headache](https://www.youtube.com/watch?v=DylIPs2MI98&list=PLOmCR6c3Jdl82z_UFSN_w5dChgRtHANMv). This is an attempt to understand the  song's structure.
+Working at Perfekt ([YouTube](https://www.youtube.com/watch?v=IisWePK0dFM){:target="_blank"}) is one of my favorite songs from Geddy Lee's solo album [My Favorite Headache](https://www.youtube.com/watch?v=DylIPs2MI98&list=PLOmCR6c3Jdl82z_UFSN_w5dChgRtHANMv). This is an attempt to understand the  song's structure.
 
 What are the main sections of the song, and where are they? One way to answer this question would be to listen to the song and make a note whenever one section transitioned into another. This is a bit slow, since it requires one or two listens to get things right, and is a bit error prone. Instead, I'll visualize the entire song at once, and note when the changes occur. 
 
@@ -55,13 +53,9 @@ Now that I've turned the song into a few patterned triangles, it's fairly easy t
 
 For anyone trying to cover this song, it looks like there are around 5 or 6 distinct parts to this song, though some of these are fairly short. There are really only 4 distinct parts of reasonable length - the ones shown in black, red, purple, and turquoise. The black section occurs 3 times, the red section 4 times, the purple 3 times, and the turquoise section only once. 
 
-In the video below, I've combined this view of the song's structure with the audio itself, and you can see they match up nicely. It's all the more interesting that this analysis  was done entirely without listening to any audio!
+In [this video](https://www.youtube.com/embed/yvu0A5-oHWY), I've combined this view of the song's structure with the audio itself, and you can see they match up nicely. It's all the more interesting that this analysis was done entirely without listening to any audio!
 
 This sort of analysis is a nice first step in looking at song structure, though there are plenty of improvements to make, and many more musical questions to answer!
-
-
-
-<iframe src="https://www.youtube.com/embed/yvu0A5-oHWY" frameborder="0" allowfullscreen></iframe>
 
 ---
 ## Problems with this analysis
