@@ -1,4 +1,6 @@
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IisWePK0dFM" 
+# Song Visualization: Working at Perfekt
+
+<iframe src="https://www.youtube.com/embed/IisWePK0dFM" 
 frameborder="0" allowfullscreen></iframe>
 
 Working at Perfekt is one of my favorite songs from Geddy Lee's solo album [My Favorite Headache](https://www.youtube.com/watch?v=DylIPs2MI98&list=PLOmCR6c3Jdl82z_UFSN_w5dChgRtHANMv). This is an attempt to understand the  song's structure.
@@ -59,7 +61,7 @@ This sort of analysis is a nice first step in looking at song structure, though 
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yvu0A5-oHWY" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/yvu0A5-oHWY" frameborder="0" allowfullscreen></iframe>
 
 ---
 ## Problems with this analysis
