@@ -1,5 +1,6 @@
-# Song Visualization: Working at Perfekt
+# Song visualization: Working at Perfekt
 
+*March 2016*
 
 Working at Perfekt ([YouTube](https://www.youtube.com/watch?v=IisWePK0dFM){:target="_blank"}) is one of my favorite songs from Geddy Lee's solo album [My Favorite Headache](https://www.youtube.com/watch?v=DylIPs2MI98&list=PLOmCR6c3Jdl82z_UFSN_w5dChgRtHANMv). This is an attempt to understand the  song's structure.
 

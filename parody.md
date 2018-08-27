@@ -1,0 +1,71 @@
+# Rearrangement-based parody and hilarity
+
+*June 2018*
+
+Sam Harris has a popular podcast, and one fan mischievously and hilariously [rearranged](https://www.youtube.com/watch?v=kkyUSIEy0UI) an episode’s audio to invert and pervert the content. 
+
+It looked fun, so I did the same thing:
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/453354108&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
+## Why is this funny?
+
+Given that rearrangement parodies contain no jokes, why are they funny? 
+
+For one, while they contain no jokes, they do rely on the audience’s expectations (so they can break them), just like a joke or magic trick. Where do these expectations come from? In a joke, they come from the setup. In a magic trick, they come from the setup, but also one’s background knowledge of physics and daily life.
+
+In a rearrangement parody, one’s expectations come from prior knowledge of the speakers. In the case of Harris and Deutsch, I’ve read their books and watched their talks. I have all sorts of unspoken expectations about what they’ll say and do, and why. A parody assumes I have those expectations and then defies them. If I didn’t know the speakers, I’d still have expectations, but instead of being informed by individual behavior, they be based on my background knowledge of particular cultures (e.g.  libertarians, Americans, or programmers).
+
+Defied expectations, however, don’t explain why audio parodies are funnier than written ones. 
+
+They’re funnier because they seem undeniably *real*. You can hear the speaker’s voice and emotional state. It’s difficult to ignore one’s sense that the speaker is *actually saying* crazy things. It’s like an optical illusion. You can be told it’s an illusion, but that doesn’t stop you from seeing it. Audio rearrangement parodies are taking advantage of what amounts to an auditory illusion - the illusion that the spoken word can’t be manipulated. 
+
+## The techniques
+
+So, that’s my theory. Here’s how I approached making the parody.
+
+Since this was exercise in *rearrangement*, I couldn’t add anything new. Instead, I had to make something funny only by moving, duplicating, deleting, and modifying existing content. 
+
+The simplest edit is a word swap. Find a single word, and replace it with something funnier. That’s what I did when I changed the Center for Quantum Computation to the Center for Quantum Exorcism. 
+
+Second, you can edit syllables, as when turning Sam Harris into Ham Sarris. This is tough, because cutting and pasting individual syllables seems to yield choppy and unnatural-sounding audio, even when trying to be as precise as possible. 
+
+By the way, cutting and pasting words is a precise business. I’m used to working with music, where most edits involve one or more measures at a time (each measure is about ~2.5 seconds). A syllable may be only a tenth as long, and the boundaries between them are shorter still.
+
+In practice, this means natural-sounding edits require lots of zooming in and out, and lots of tweaking the start-stop times for a clip.
+
+Anyway, you can go beyond just words and syllables by replacing entire phrases. That’s what I did when I changed the title of David’s book from *The Beginning of Infinity* to *The Perfect Cube of God*. Admittedly, while several words have changed here, this is just one edit at a conceptual level - changing a book title. 
+
+A more extreme case is to throw away the meaning of a phrase and replace it with something entirely different. That’s what I did when I replaced a long phrase with *bite and touch his chocolate mousse*, which required bringing together three different clips that were originally scattered throughout the recording. 
+
+So, those are the major types of edits. Here are the most interesting types of content to look for in a recording.
+
+1. Highly visual words, like animals, physical actions and activities, and other sensory things. 
+
+2. Exclamations, highly emphasized words, and mannerisms that would not be captured well in text like *umm* or *ahh*. 
+
+3. Emotionally and culturally-charged words, like *exorcism* or *quantum*.
+
+A good place to look for these words is in metaphors and other figurative language (e.g. *exorcise me of my doubts*). Thought experiments are also great (e.g. *you and I are alone on an island*). This podcast had both, thankfully. 
+
+There are also some words which are useful when making your own phrases, like pronouns, conjunctions, prepositions, and simple responses like yes or no. You could regard these as the helping or connecting words.
+
+You can use these different kinds of edits and words to produce different *conceptual* changes. 
+
+1. Inversion. Insert or omit a “not”. When someone explains an opponent’s argument, you can make it sound like their own. This is often a bit too easy and predictable, so I’ve avoided it. 
+
+2. Absurdity. Change things to make the speakers sound insane or goofy. This is what I did most.
+
+3. New meaning. This is the hardest but most interesting conceptual change. It means doing more than turning a meaningful statement into its opposite or into a meaningless statement. It involve creating an entirely new meaningful statement, like when I made it sound like Ham was trying to seduce Dave. While there’s an element of absurdity, it’s not arbitrary, and it’s wasn’t just an inversion of an existing idea.
+
+That covers most of the high level ideas, so here are some gritty details. 
+
+I downloaded the [original podcast](https://m.youtube.com/watch?v=J21QuHrIqXg) from YouTube with the `youtube-dl` command-line package, and then used Audacity to split the ~2 hour, 100+ MB mp3 file into smaller, 10-minute-long files that were easier to load into Ableton, where I did all the editing. 
+
+Also, I expect I made a mistake by ignoring the [transcript](http://www.bretthall.org/david-deutsch--sam-harris.html), which would have made it easier to find interesting words. If I make another parody, I’ll try to take advantage of a transcript if one’s available. 
+
+## Conclusions
+
+Audio rearrangement parodies are funny and fun! A closely related parody form is lip-sync audio *replacement*, which you can see in the hilarious YouTube channel [Bad Lip Reading](https://www.youtube.com/user/BadLipReading).
+
+

@@ -1,3 +1,4 @@
 # Carlos De la Guardia
 
-[Song Visualization: Working at Perfekt](/perfekt)
+[Song visualization: Working at Perfekt](/perfekt)
+[Rearrangement-based parody and hilarity](/parody)
