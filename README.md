@@ -1,7 +1,7 @@
 # Carlos De la Guardia
 
 <a href="https://carlosd.org/guilloche-gallery/">
-	<img src="/img/header.png" width="100%">
+	<img style="border-radius: 10px" src="/img/header.png" width="100%">
 </a>
 
 Howdy! I'm Carlos. You can find me on [Twitter](https://twitter.com/dela3499).
