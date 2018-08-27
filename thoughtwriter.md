@@ -1,5 +1,5 @@
 <a href="https://thoughtwriter.org">
-	<img src="/img/thoughtwriter/landing.png" width="100%">
+	<img src="/img/thoughtwriter/landing.jpg" width="100%">
 </a>
 
 Writing helps me think, and I've long used Evernote to keep hold of my ideas. After writing many long notes that I prompty ignored, I created **[Thoughtwriter](https://thoughtwriter.org)** to see what happens when I write more and keep less. 
