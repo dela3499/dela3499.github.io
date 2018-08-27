@@ -1,0 +1,118 @@
+# Making 10 songs in 10 days
+
+*June 2018*
+
+A few weeks ago, I thought it'd be fun to make and release one song each day. After ten days, ten songs, and lots of fun, I thought I'd review my work to see how it evolved. Listen to it here: 
+
+<iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/532500549&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
+With the first song, I was just trying to create a song - any song. That was challenging enough, and required plenty of trial an error. Then, I tried to make a song that constantly changed to keep the listener's interest. Things were still haphazard, so I tried taking the listener on a journey they could actually follow - not changing too slowly or too quickly. That meant understanding how to organize music into sections and then transition between them. With the last few songs, I felt confident I could craft a solid journey for the listener, and the question was simply where to take them.
+
+For a song by song analysis, read on.
+
+## Song reviews
+
+1. **[Time Pool](https://soundcloud.com/dela3499/time-pool)**
+
+    *Boring. Not dynamic enough.*
+
+    The song's background is a mashup of short clips taken from longer guitar phrases I recorded. That's a technique I've used only a few times, but hope to explore more, given how common it is in electronic music.
+
+    The baseline is an arpeggiated version of the simple chord progression from [Time](https://www.youtube.com/watch?v=jgyShFzdB_Q), by Hans Zimmer. (By the way, I enjoyed his [online course](https://www.masterclass.com/classes/hans-zimmer-teaches-film-scoring/).)
+
+    I like the dreamy legato melody that enters at [1:15](https://soundcloud.com/dela3499/time-pool#t=1:15) and the last section of the song, where the guitar and bass are most active.
+
+    Overall, though, the song's arrangement is boring. There's very little variation in the song's energy within or between sections. A song should take you on an interesting journey, but this one doesn't. 
+
+    Also, very little thought went into the transitions between sections. I just muted the drums prior to each section change. This isn't a big problem when transitioning between the similar-sounding A and B sections, but it is confusing when transitioning from the B to the C section, since the latter has a much higher pace. When trying to connect sections that have a different pace, energy, or tonality, a longer and more thoughtful transition is required (as I discovered in later songs).
+
+
+2. **[Arctic Wind](https://soundcloud.com/dela3499/arctic-wind)**
+
+    *Dynamically-changing texture, but not gripping or memorable.*
+
+    While this song maintains a steady low-key energy centered on the bass's chord progression, it is much more dynamic than Time Pool. There's a background swell that periodically creates tension, and other instruments are constantly weaving in and out to change the song's texture. As in Time Pool, there's a nice legato guitar melody at [1:01](https://soundcloud.com/dela3499/arctic-wind#t=1:01). 
+
+    While the song improves on the previous one, it's still got a fairly haphazard arrangement, and doesn't have any particularly gripping or memorable sections.
+
+3. **[Cryosleep](https://soundcloud.com/dela3499/cryosleep)**
+
+    *More dynamic and gripping, but still haphazard.*
+
+    This song has a bit of energy, and much more contrast between sections than the previous songs. It's also very dynamic within sections, with constant builds in energy level. Still, the arrangement is a bit haphazard. It doesn't have a normal structure, like the ABABCB arrangement of pop and rock songs. 
+
+4. **[Rain Dance](https://soundcloud.com/dela3499/rain-dance)**
+
+    *Not gripping. Sections too similar.*
+
+    The opening acoustic guitar phrase plays through most of the song, and contributes to the fact that most of the song sounds the same. While there are some clear transitions, the sections themselves have the same texture, tonality, and feel. This was the same problem as in Time Pool. 
+
+5. **[Ellipticality](https://soundcloud.com/dela3499/ellipticality)**
+
+    *Some mystery, energy, and contrast!*
+
+    This song is the first one to approach something like a pop/rock arrangement, with good builds within sections, contrast between sections, and a bridge section followed by an A-section outro. The transitions are preceded by a clear guitar riff, instead of a only muting the drums. I think the intro also sounds a bit mysterious, and it draws you in as the different musical layers are introduced. I think this is the first song of mine which actually takes the listener on a journey. 
+
+6. **[Irrigation](https://soundcloud.com/dela3499/irrigation)**
+
+    *Great contrast between big, powerful bridge and sweet-sounding classical guitar.*
+
+    A relaxing acoustic guitar slowly builds into a really strong electric guitar and bass section at [1:43](https://soundcloud.com/dela3499/irrigation#t=1:43). The transitions into and out of this high-energy section feel fairly natural as well, despite having to bridge large gaps in pace and energy. There's a nice effect when moving from the in-your-face electric guitar to a sweet-sounding acoustic one. I like the continual evolution of the song as different layers are added and removed. Each layer only changes things a bit, but the listener always has something new to pay attention to. 
+
+7. **[The View from Titan](https://soundcloud.com/dela3499/the-view-from-titan)**
+
+    *Intense and dynamic! A bit hard to follow.*
+
+    This is by far my highest-energy song yet. Inspired by the opening guitar riffs of Rush's [Tom Sawyer](https://www.youtube.com/watch?v=WJoTxywiRG0), I also tried to create a punchy, riff-based guitar part. I also have a super fast bassline that weaves its way through the song. The arrangement of this song is also extremely dynamic. It never stays still. If anything, there's too much change, and it can make the song hard to follow. Repetition does have it's place, after all, and this song could probably be improved by a more conventional pop/rock structure (which would involve more repetition, and the addition of a bridge section).
+
+8. **[Window Seat](https://soundcloud.com/dela3499/window-seat)**
+
+    *Large emotional range. Flows naturally. A journey.*
+
+    I wrote an in-depth analysis of this song [here](http://simp.ly/publish/QTfBDK). 
+
+    This is the first song with a key and tonality change between sections. The first section is in E minor, and the second section is in B major. This makes the first section seem dark and the second section seem happy. That's a larger emotional range than was present in previous songs. 
+
+    It's also the first time I used the ABABCA song structure and spent lots of time and energy on the transitions between sections. These transitions were especially important here to avoid dissonance in moving from the key of one section to key of the next. Altogether, these things make the song flow really naturally, and they take the listener on a journey. 
+
+    While I quite like the A and C sections (the ones that sound dark), I find myself getting tired by the B section. So, while I think this is my best-structured song yet, not every musical section is strong. I expect the B section would be improved by incorporating a strong chord progression and altering the lead melody to fit within it.
+
+    I really like how the song ends. Several of the song's melodies come together and play at the same time. While this might be confusing if done at the beginning of the song, the listener's already familiar with the individual components by the end, and can make sense of everything playing at once. 
+
+    I think this arrangement succeeds in taking the listener on a journey. Not perfectly, but better than the previous songs. 
+
+9. **[Arborealis](https://soundcloud.com/dela3499/arborealis)**
+
+    *Spanish feel. Dynamic changes of lead instrument. Sections are too different.*
+
+    There's a harmonica in this one! I also tried to incorporate the latin *son clave* rhythm after learning about it [here](https://youtu.be/tm2BgO1VaRY?t=9m40s). The first section has a pleasantly Spanish feel and shifts the listener's focus smoothly between the acoustic guitar, harmonica, and electric guitar. So, the dynamism of the first section comes primarily from changing the lead instrument. The overall energy level, tonality, and pace don't change much, but they don't have to. 
+
+    As with Window Seat, there's a carefully-constructed transition from a minor-tonality first section to a major-tonality second section. This second section is basically an extended guitar solo that is admittedly a bit out of place given the Spanish intro. It would have been better to incorporate some of the first section's feel into the second section so they don't sound like they're from completely different songs. 
+
+    This song was carefully arranged, with distinct sections and thoughtful transitions between them, but it's a short song (I got tired!). While I thought I'd try to reproduce the ABABCA structure of Window Seat, I settled on the shorter ABA structure, which still takes the listener on a journey.
+
+10. **[Lost and Found](https://soundcloud.com/dela3499/lost-and-found)**
+
+    *A journey from darkness to brighter Spain.*
+
+    The intro is sparse, ethereal, and dark, like the intro to Hans Zimmer's [Time](https://www.youtube.com/watch?v=jgyShFzdB_Q), which inspired it. I was impressed by Time's subtleness. It’s powerful and emotional despite few notes being played. 
+
+    The song's structure is again ABA, with the A section being in a minor key and the B section in a major key. The transition from B to A is quite strong, because there's both a tonality change, and a pace change. It goes from a flurry of guitar notes to a dead stop with only ambient harmonies playing. 
+
+    Overall, this song has much in common with Arborealis, but the song sections here make more sense together. 
+
+
+## Future directions
+
+I have lots of ideas for what to learn and try next. Here are some of them. 
+
+1. Writing lyrics and singing
+2. Covering songs (from Rush, say)
+3. Learn the piano (I can play chords and simple melodies, but I'm no pianist.)
+4. Drums (I can program basic beats, but I want to be like [Neil Peart](https://www.youtube.com/watch?v=8F2D_LZNF8I)!)
+5. Explore mixing and arranging more ([This book](https://www.amazon.com/Song-Arrangement-Small-Recording-Studio/dp/1539852997) is good.)
+
+    
+
+
+
