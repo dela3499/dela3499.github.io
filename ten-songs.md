@@ -4,7 +4,7 @@
 
 A few weeks ago, I thought it'd be fun to make and release one song each day. After ten days, ten songs, and lots of fun, I thought I'd review my work to see how it evolved. Listen to it here: 
 
-<iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/532500549&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+<iframe style="padding-bottom:15px; width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/532500549&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 With the first song, I was just trying to create a song - any song. That was challenging enough, and required plenty of trial an error. Then, I tried to make a song that constantly changed to keep the listener's interest. Things were still haphazard, so I tried taking the listener on a journey they could actually follow - not changing too slowly or too quickly. That meant understanding how to organize music into sections and then transition between them. With the last few songs, I felt confident I could craft a solid journey for the listener, and the question was simply where to take them.
 
