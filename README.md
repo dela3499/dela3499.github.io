@@ -1,5 +1,9 @@
 # Carlos De la Guardia
 
+<img src="/img/tom.jpg" height="100" width="100%">
+
+![](/img/perfekt/waveform.png)
+
 Howdy! I'm Carlos. You can find me on [Twitter](https://twitter.com/dela3499).
 
 
