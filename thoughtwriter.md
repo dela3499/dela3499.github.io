@@ -2,7 +2,7 @@
 	<img src="/img/thoughtwriter/landing.jpg" width="100%">
 </a>
 
-Writing helps me think, and I've long used Evernote to keep hold of my ideas. After a while, I realized that, once I'd written a note, I almost never opened it again. That seemed like a waste, given there were some good ideas in those notes. Perhaps I ought to save fewer notes, and ones that were shorter and better written. I created a writing app called **[Thoughtwriter](https://thoughtwriter.org)** to see what happens when I write more and keep less. Here's what it does (and doesn't) do:
+Writing helps me think, and I've long used Evernote to record all of my ideas. After a while, though,  I realized I never read any of my notes after writing them. That seemed like a waste, given there were some good ideas buried in those notes. Perhaps I ought to save fewer notes, and ones that were shorter and better written, and so easier to refer to. I created an app (in [Elm](http://elm-lang.org/)) called **[Thoughtwriter](https://thoughtwriter.org)** to see what happens when I write more and keep less. Here's what it does (and doesn't) do:
 
 - It doesn't allow you to save notes (which encourages you find and keep only the most important bits).
 - It limits writing to 5000 characters , which is around 750 words (so you write & delete in short cycles).
