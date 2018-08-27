@@ -1,5 +1,3 @@
-# Thoughtwriter: a tool for thinking
-
 <a href="https://thoughtwriter.org">
 	<img src="/img/thoughtwriter/landing.png" width="100%">
 </a>

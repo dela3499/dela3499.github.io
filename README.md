@@ -1,8 +1,8 @@
 # Carlos De la Guardia
 
-<img src="/img/tom.jpg" height="100" width="100%">
-
-![](/img/perfekt/waveform.png)
+<a href="https://carlosd.org/guilloche-gallery/">
+	<img src="/img/header.jpg" width="100%">
+</a>
 
 Howdy! I'm Carlos. You can find me on [Twitter](https://twitter.com/dela3499).
 
@@ -13,4 +13,5 @@ Howdy! I'm Carlos. You can find me on [Twitter](https://twitter.com/dela3499).
 - [Making 10 songs in 10 days](/ten-songs)
 
 ## Miscellaneous
+- [Thoughtwriter: a digital whiteboard for your thoughts](/thoughtwriter)
 - [Rearrangement-based parody and hilarity](/parody)
