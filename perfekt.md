@@ -2,7 +2,7 @@
 
 *March 2016*
 
-<iframe style="padding-bottom:15px; width="100%" height="315" src="https://www.youtube.com/embed/yvu0A5-oHWY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe style="padding-bottom:15px; width:100%" height="315" src="https://www.youtube.com/embed/yvu0A5-oHWY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 The video above shows the song structure of Working at Perfekt, my favorite song from Geddy Lee's solo album [My Favorite Headache](https://www.youtube.com/watch?v=DylIPs2MI98&list=PLOmCR6c3Jdl82z_UFSN_w5dChgRtHANMv). Interestingly, it was created entirely without listening to the song! In this post, I'll explore different ways to visualize music, one of which (shown in the video above) allows you to see a song's structure at a glance without even hearing it.
 
