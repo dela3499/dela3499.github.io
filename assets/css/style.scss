@@ -3,6 +3,9 @@
 
 @import "{{ site.theme }}";
 
-$base-font-family: "Merriweather", "Helvetica Neue", Arial, sans-serif;
 
-$brand-color: #25325C;
+$background-color : #fffdf0;
+
+html, body {
+	background-color: #fffdf0;
+}
