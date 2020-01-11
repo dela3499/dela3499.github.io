@@ -1,3 +1,8 @@
+---
+layout: page
+
+---
+
 # Song visualization: Working at Perfekt
 
 *March 2016*
