@@ -1,4 +1,8 @@
-# Carlos De la Guardia
+---
+
+layout: homepage
+
+---
 
 <a href="https://carlosd.org/guilloche-gallery/">
 	<img style="border-radius: 10px" src="/img/header.png" width="100%">
