@@ -2,61 +2,7 @@ I want to link to file [Test 2](test-2.md).
 
 What happens if I try to link to [the note called Test 2]([Test 2](test-2)). 
 
-- #Music / [[Music]]
-- After watching (some of) [[Course: Film Scoring, by Danny Elfman]], I've got a bunch of new ideas for things to try: 
-    - A 15-minute piece of music
-    - Developed over the course of about a week, doing about two minutes a day
-    - Tells a unified, well-developed, independent story.
-    - The story, tone, moments, etc. are something important to me. This is more than a jam. It's an attempt to really say something. Perhaps it contains jams, but is deeper than that overall.
-    - Is built around a couple key moments
-    - Has a strong tone
-    - Shares some DNA with ambitious Rush epics like 2112, hemispheres, Natural Science, Xanadu, La Villa Strangiato, and so on. 
-    - Sets the stage, gives ideas time and space to mature, and for a story to unfold, for things to happen and return afresh in a new way.
-    - Like a score, is built around a range of ideas, moments, sequences, and so on. 
-    - Allow yourself the time to struggle to come up with the right idea for a given moment.
-    - Timebox yourself so the entire project has a deadline, and where you start something new.
-- What are some of the key ideas you want for this piece? 
-    - Silliness, like [[Chris D'Elia]]
-    - Truth, optimism, progress like [[David Deutsch]]
-    - Hardcore speed and technology and ambition like [[Elon Musk]]
-    - Openendedness
-    - Meditation and Calm
-- What I love, and what I am, and what I want
-    - One possible ambition for this piece is to be a tool for helping me from the sort of depression which I have recently found myself in. It can be a fantastic hammer forged of the strongest ideas, all put to one purpose: optimism. Resourcefulness, grit, strength, playfulness. All the good things in life. Meaning, intimacy, love, friendship, reason, argument. Perhaps I can also cover all the great dangers, like depression, confusion, weakness, fear, timidity, small thinking, and so on. In a word, this think should capture my personal worldview in musical form. Perhaps I can write a poem to go along with it? That is a fascinating thought!
-    - One idea is to build a story rather like the one that Josh Kaufman made: [[How to Fight a Hydra]]. It's a pithy story meant to illustrate a number of important things in a memorable parable.
-- Some facts that are important here: 
-    - I sometimes find myself down, and have a hard time escaping that feeling.
-    - At other times, I've felt intense optimism, or simply an excitement about a particular project. 
-    - There are a wide variety of things which I have found important and inspiring in my life, and they are not all always ready at hand.
-- Key feelings, personal moments, influences
-    - Those Vapor Trails moments, where I find that weakness, indecision, depression, stasis, and rumination reach a saturation point, and I cast off that feeling with disdain and resolve, making big plans, tensing all my muscles, getting red in the face, seeing the huge potential which is open to me. That feeling of "FUCK IT. Let's get moving." So, there's a descent into stasis and depression, and passionately burning free of it.
-    - Calmly imperturbable. Back straight. Calm composure. Rational, thoughtful, clearheaded. Dispassionate. Unconflicted. Resourceful.
-    - Losing it while laughing.
-    - Solitude. In control. In your own little submarine. Simple.
-- Some ideas for arrangement and structure
-    - Birth: sweetly amorphous chaos
-    - Start: stasis, repetition, then infinity. Start like the Planets with Mars, and then move to dynamism with Jupiter.
-    - Big bang, to chaos, then to order and stasis, then to ordered-but-boisterous dynamism.
-    - Ending: just beginning, the story ends midstride, like it keeps going, reaching upward
-    - No idea is ever exactly repeated. Just like real life is lived only once. Things which are near each other may be somewhat similar, but if an idea appear later, it must be in a different form. It must feel different. Be in a different context.
-    - A gradual and constant evolution.
-    - Diversity. Lots of different things happen.
-- What is the core idea, theme, soul, or tone to the piece?
-    - Optimism Theme: optimism, get up, all you can do is keep going, keep trying, tenacity.
-    - Depression Theme: stuck, flailing, weak, ruminating, chaos, fear
-    - Perhaps there should be a single theme which combines all these elements, and the whole thing appears together or separate on different occasions.
-    - Other options: focused on the problem, experimentation, trying lots of things, curiosity.
-    - Enlightenment theme: the history, all the thinkers before you, the shoulders of giants, the tradition of progress.
-    - The cosmic war between progress and stasis. The forces of good and evil constantly battling it out within a mind. Like Hemispheres, but instead of Reason vs. Emotion, Mind vs. Heart, it's progress vs. stasis, growth vs. decay, novelty vs. repetition, playfulness vs. duty, boldness vs. conservatism.
-        - This, like [[Fiction: Fall; or Dodge in Hell]], is a story of the battle between heaven and hell. Here, we start with hell, and then there is the birth of optimism which casts it aside. Still, we are in the transition, and so hell sometimes insinuates itself. But it shall be weakened constantly, and heaven strengthened. It accelerates and accelerates.
-- How does this project differ from others?
-    - Longer
-    - Different process
-    - More thematic - literally has musical themes, and abstract ones
-- What are some related pieces?
-    - Hemispheres - The fight between two things, heaven and hell.
-    - 2112 - Another fight. Full of attitude and intensity. It is in fact a battle between stasis and dynamism, a closed and open society.
-    - The Planets - darkness of Mars, dynamism of Jupiter, and the playfulness and exotic, ethereal textures of several other parts
-- Is there a single core idea?
-    - 
+This is a line.
+This is another line.
 
+Yet another line.
