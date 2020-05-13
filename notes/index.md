@@ -1,5 +1,5 @@
 ---
-title: Index
+title: Notes
 layout: note
 backlinks:
 
