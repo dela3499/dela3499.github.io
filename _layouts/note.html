@@ -25,16 +25,15 @@ layout: base
     <div class="dates">
         <div>
             <a target="_blank" href="sorted-by-last-edit#{{ page.page_url }}">
-            Last edited {{ page.date_updated }}
+            Last edited {{ page.date_updated | date: "%B %-d, %Y" }}
             </a>
         </div>
         <div>
             <a target="_blank" href="sorted-by-creation-date#{{ page.page_url }}">
-            Created {{ page.date_created }}
+            Created {{ page.date_created | date: "%B %-d, %Y" }}
             </a>
         </div>
     </div>    
-
 
 </div>
 
