@@ -1,5 +1,6 @@
 ---
 title: Digital Garden Test Note 1
+page_url: digital-garden-test-note-1
 layout: note
 date_created: 2020-05-13
 date_updated: 2020-05-13

@@ -1,5 +1,6 @@
 ---
 title: Notes
+page_url: notes
 layout: note
 date_created: 2020-05-13
 date_updated: 2020-05-13

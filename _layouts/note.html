@@ -11,6 +11,19 @@ layout: base
     <!-- <div class="post__date"><p>{{ page.date | date: "%B %e, %Y" }}</p></div> -->
     <div class="post__content">{{ content }}</div>
 
+    <div class="dates">
+        <div>
+            <a href="sorted-by-last-edit#{{ page.page_url }}">
+            Last edited {{ page.date_updated }}
+            </a>
+        </div>
+        <div>
+            <a href="sorted-by-creation-date#{{ page.page_url }}">
+            Created {{ page.date_created }}
+            </a>
+        </div>
+    </div>
+
     {% if page.backlinks.size > 0 %}
     <div class="backlinks">
         <h2>Backlinks</h2>
