@@ -1,5 +1,7 @@
 title: Carlos De la Guardia
 
+exclude: ["/_note_hashes"]
+
 defaults:
   -
     scope:
