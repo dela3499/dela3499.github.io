@@ -5,7 +5,7 @@ backlinks:
   - [Digital Garden Test $Note '2'](digital-garden-test-note-2)
 ---
 
-That tag means this note is going to be published.
+
 
 Ok, so this note should connect to [Digital Garden Test $Note '2'](digital-garden-test-note-2).
 
