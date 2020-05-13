@@ -2,8 +2,10 @@
 title: Digital Garden Test $Note '2'
 layout: note
 backlinks:
-  - [Digital Garden Test Note 1](digital-garden-test-note-1)
-  - [Digital Garden Test $Note '2'](digital-garden-test-note-2)
+  - name: Digital Garden Test Note 1
+    url: digital-garden-test-note-1
+  - name: Digital Garden Test $Note '2'
+    url: digital-garden-test-note-2
 ---
 
 
