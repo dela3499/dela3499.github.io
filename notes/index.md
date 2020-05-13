@@ -1,6 +1,6 @@
 ---
 title: Notes
-page_url: notes
+page_url: index
 layout: note
 date_created: 2020-05-13
 date_updated: 2020-05-13
@@ -10,6 +10,8 @@ backlinks:
 
 
 
-This is a page where I can put all sorts of notes and structure over time.
+Howdy! You can browse all my notes [by creation date](https://carlosd.org/notes/sorted-by-creation-date), or [by when they were last updated](https://carlosd.org/notes/sorted-by-last-edit).
+
+
 
 
