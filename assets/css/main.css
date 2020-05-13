@@ -330,7 +330,6 @@ img+em {
 }
 
 .intro ul {
-    list-style: circle;
     margin-left: 35px;
     padding: 7px
 }
@@ -425,7 +424,6 @@ img+em {
 
 .post__content ul {
     font-size: 1em;
-    list-style: circle;
     margin-left: 30px;
 }
 
