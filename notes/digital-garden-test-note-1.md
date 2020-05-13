@@ -1,6 +1,16 @@
 ---
 title: Digital Garden Test Note 1
 layout: note
+date_created: 2020-05-13
+date_updated: 2020-05-13
+backlinks:
+  - name: Digital Garden Test $Note '2'
+    url: digital-garden-test-note-2
+---
+
+---
+title: Digital Garden Test Note 1
+layout: note
 backlinks:
   - name: Digital Garden Test $Note '2'
     url: digital-garden-test-note-2
