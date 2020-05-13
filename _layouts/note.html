@@ -11,7 +11,7 @@ layout: base
     <!-- <div class="post__date"><p>{{ page.date | date: "%B %e, %Y" }}</p></div> -->
     <div class="post__content">{{ content }}</div>
 
-    {% if page.backlinks != '' %}
+    {% if page.backlinks.size > 0 %}
     <div class="backlinks">
         <h2>Backlinks</h2>
         <ul>
