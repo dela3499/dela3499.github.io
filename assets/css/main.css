@@ -129,7 +129,8 @@ body {
 
 h1 {
     margin-bottom: 5px;
-    font-family: 'Merriweather', sans-serif
+    font-family: 'Merriweather', sans-serif;
+    line-height: 1.4em;
 }
 
 p {
@@ -521,4 +522,37 @@ img+em {
 
 .footer hr {
     margin-bottom: 15px
+}
+
+
+/*notes*/
+
+.dates {
+    padding: 10px 0;
+    border-top: 1px solid rgba(0,0,0,0.2);
+    border-top: 1px solid rgba(0,0,0,0.2);
+    margin: 30px 0;
+}
+
+.dates div {
+    padding: 5px 0;
+}
+
+.dates a {
+    color: grey;
+}
+
+.backlinks {
+    background: rgba(0,0,0,0.05);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.backlinks h2 {
+    font-size: 1.5em;
+    padding-bottom: 10px;
+}
+
+.backlinks a {
+    color: grey;
 }
