@@ -14,7 +14,7 @@ layout: base
    	<h2>Backlinks</h2>
    	<ul>
 	    {% for backlink in page.backlinks %}
-	    <li><a target="_blank" href="/notes/{{ backlink.url }}">{{ backlink.name }}</a></li>
+	    <li><a target="_blank" href="{{ backlink.url }}">{{ backlink.name }}</a></li>
 	    {% endfor %}
     </ul>
 
