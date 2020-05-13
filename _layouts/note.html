@@ -11,6 +11,17 @@ layout: base
     <!-- <div class="post__date"><p>{{ page.date | date: "%B %e, %Y" }}</p></div> -->
     <div class="post__content">{{ content }}</div>
 
+    {% if page.backlinks.size > 0 %}
+    <div class="backlinks">
+        <h2>Backlinks</h2>
+        <ul>
+            {% for backlink in page.backlinks %}
+            <li><a target="_blank" href="{{ backlink.url }}">{{ backlink.name }}</a></li>
+            {% endfor %}
+        </ul>
+    </div>
+    {% endif %}
+
     <div class="dates">
         <div>
             <a target="_blank" href="sorted-by-last-edit#{{ page.page_url }}">
@@ -22,18 +33,7 @@ layout: base
             Created {{ page.date_created }}
             </a>
         </div>
-    </div>
-
-    {% if page.backlinks.size > 0 %}
-    <div class="backlinks">
-        <h2>Backlinks</h2>
-        <ul>
-            {% for backlink in page.backlinks %}
-            <li><a target="_blank" href="{{ backlink.url }}">{{ backlink.name }}</a></li>
-            {% endfor %}
-        </ul>
-    </div>
-    {% endif %}
+    </div>    
 
 
 </div>
