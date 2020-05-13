@@ -8,7 +8,7 @@ backlinks:
 
 
 
-Ok, so this note should connect to [Digital Garden Test $Note '2'](digital-garden-test-note-2).
+Ok, so this note should connect to [Digital Garden Test $Note '2'](digital-garden-test-note-2){:target="_blank"}.
 
 I'll also include an outline here. 
 
@@ -24,6 +24,6 @@ I'll also include an outline here.
 
 # New Section Mofos!
 
-Here's a tag link to [Digital Garden Test $Note '2'](digital-garden-test-note-2). Not only does it test my ability to handle tags, it also tests that I don't show multiple backlinks to this note in [Digital Garden Test $Note '2'](digital-garden-test-note-2).
+Here's a tag link to [Digital Garden Test $Note '2'](digital-garden-test-note-2){:target="_blank"}. Not only does it test my ability to handle tags, it also tests that I don't show multiple backlinks to this note in [Digital Garden Test $Note '2'](digital-garden-test-note-2){:target="_blank"}.
 
 
