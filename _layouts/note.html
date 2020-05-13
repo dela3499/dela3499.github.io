@@ -11,12 +11,21 @@ layout: base
     <!-- <div class="post__date"><p>{{ page.date | date: "%B %e, %Y" }}</p></div> -->
     <div class="post__content">{{ content }}</div>
 
-   	<h2>Backlinks</h2>
-   	<ul>
-	    {% for backlink in page.backlinks %}
-	    <li><a target="_blank" href="{{ backlink.url }}">{{ backlink.name }}</a></li>
-	    {% endfor %}
-    </ul>
+    {% if page.backlinks != '' %}
+    <div class="backlinks">
+        <h2>Backlinks</h2>
+        <ul>
+            {% for backlink in page.backlinks %}
+            <li><a target="_blank" href="{{ backlink.url }}">{{ backlink.name }}</a></li>
+            {% endfor %}
+        </ul>
+    </div>
+    {% endif %}
+
 
 </div>
+
+
+
+    
 
