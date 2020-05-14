@@ -20,7 +20,11 @@ layout: base
     {% assign date_groups = page.pages | group_by: 'date_created' %}
         {% for date_group in date_groups %}
             <div class="date_group" id="{{ date_group.name }}">
-                <h3>{{date_group.name | date: "%B %-d, %Y" }}</h3>
+                <h3>
+                    <a href="#{{ date_group.name }}">
+                        {{date_group.name | date: "%B %-d, %Y" }}
+                    </a>
+                </h3>
                 {% for p in date_group.items %}
                     <div class="page_link">
                         <a target="_blank" href="{{ p.page_url }}">
