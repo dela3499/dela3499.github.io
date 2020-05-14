@@ -13,7 +13,7 @@ layout: base
 
     {% if page.backlinks.size > 0 %}
     <div class="backlinks">
-        <h2>Backlinks</h2>
+        <h2>Notes that link to this note</h2>
         {% for backlink in page.backlinks %}
         <div><a target="_blank" href="{{ backlink.url }}">{{ backlink.name }}</a></div>
         {% endfor %}

@@ -270,11 +270,11 @@ img+em {
 }
 
 .header ul {
-    margin-top: 10px
+    margin-top: 10px;
 }
 
 .header ul li + li {
-    padding-left: 5px
+    padding-left: 5px;
 }
 
 .header ul li {
@@ -283,12 +283,12 @@ img+em {
 }
 
 .blog {
-    padding-bottom: 30px
+    padding-bottom: 30px;
 }
 
 .blog h1 {
     font-size: 1.4em;
-    margin-bottom: 15px
+    margin-bottom: 15px;
 }
 
 .blog h2 {
