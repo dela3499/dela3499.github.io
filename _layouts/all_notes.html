@@ -11,7 +11,7 @@ layout: base
     </div>
 
     {% for note in page.notes %}
-    <div class="post">
+    <div class="post" id="{{ note.page_url }}">
 
         <div class="post__title">
         	<h1>{{ note.title }}</h1>
