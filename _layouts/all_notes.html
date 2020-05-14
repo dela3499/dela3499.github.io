@@ -16,7 +16,7 @@ layout: base
         <div class="post__title">
         	<h1>{{ note.title }}</h1>
         </div>        
-        <div class="post__content">{{ note.content_with_hash_links }}</div>
+        <div class="post__content">{{ note.content_with_hash_links | markdownify }}</div>
 
         {% if note.backlinks.size > 0 %}
         <div class="backlinks">
