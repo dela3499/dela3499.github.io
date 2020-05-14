@@ -1,5 +1,6 @@
 ---
 
+layout: page_index
 links:
 - {text: (Sort by update date instead), url: updated}
 pages:

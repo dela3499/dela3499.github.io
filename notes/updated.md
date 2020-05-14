@@ -1,5 +1,6 @@
 ---
 
+layout: page_index
 links:
 - {text: (Sort by creation date instead), url: created}
 pages:
