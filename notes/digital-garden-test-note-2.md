@@ -4,6 +4,7 @@ backlinks:
 - {name: Digital Garden Test Note 1, url: digital-garden-test-note-1}
 date_created: '2020-05-14'
 date_updated: '2020-05-14'
+layout: note
 page_url: digital-garden-test-note-2
 title: Digital Garden Test $Note '2'
 

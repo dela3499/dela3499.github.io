@@ -3,6 +3,7 @@
 backlinks: []
 date_created: '2020-05-14'
 date_updated: '2020-05-14'
+layout: note
 page_url: index
 title: Notes
 
