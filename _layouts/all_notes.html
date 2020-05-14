@@ -1,0 +1,50 @@
+---
+
+layout: base
+
+---
+
+<div class="post all_notes">
+    
+    <div class="post__title">
+        <h1>{{ page.title }}</h1>
+    </div>
+
+    {% for note in page.notes %}
+    <div class="post">
+
+        <div class="post__title">
+        	<h1>{{ note.title }}</h1>
+        </div>        
+        <div class="post__content">{{ note.content_with_hash_links }}</div>
+
+        {% if note.backlinks.size > 0 %}
+        <div class="backlinks">
+            <h2>Links to this note</h2>
+            {% for backlink in note.backlinks %}
+                <div>
+                    <a target="_blank" href="{{ backlink.url }}">
+                        {{ backlink.name }}
+                    </a>
+                </div>
+            {% endfor %}
+        </div>
+        {% endif %}
+
+        <div class="dates">
+            <div>
+                <a target="_blank" href="updated#{{ note.date_updated }}">
+                Last edited {{ note.date_updated | date: "%B %-d, %Y" }}
+                </a>
+            </div>
+            <div>
+                <a target="_blank" href="created#{{ note.date_created }}">
+                Created {{ note.date_created | date: "%B %-d, %Y" }}
+                </a>
+            </div>
+        </div>    
+
+    </div>
+    {% endfor %}
+
+</div>

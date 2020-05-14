@@ -594,3 +594,10 @@ img+em {
 ul {
     list-style: disc;
 }
+
+.post .all_notes {
+    border: 1px solid grey;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 10px;    
+}
