@@ -22,7 +22,11 @@ layout: base
             <div class="date_group" id="{{ date_group.name }}">
                 <h3>{{date_group.name | date: "%B %-d, %Y" }}</h3>
                 {% for p in date_group.items %}
-                    <div class="page_link"><a target="_blank" href="{{ p.page_url }}">{{ p.title }}</a>
+                    <div class="page_link">
+                        <a target="_blank" href="{{ p.page_url }}">
+                            {{ p.title }}
+                        </a>
+                    </div>
                 {% endfor %}
             </div>
         {% endfor %}
