@@ -14,11 +14,9 @@ layout: base
     {% if page.backlinks.size > 0 %}
     <div class="backlinks">
         <h2>Backlinks</h2>
-        <ul>
-            {% for backlink in page.backlinks %}
-            <li><a target="_blank" href="{{ backlink.url }}">{{ backlink.name }}</a></li>
-            {% endfor %}
-        </ul>
+        {% for backlink in page.backlinks %}
+        <div><a target="_blank" href="{{ backlink.url }}">{{ backlink.name }}</a></div>
+        {% endfor %}
     </div>
     {% endif %}
 

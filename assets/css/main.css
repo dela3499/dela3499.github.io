@@ -142,18 +142,18 @@ p {
 
 a {
     color: grey;
-    text-decoration: none
+    text-decoration: underline;
 }
 
 a:visited {
     color: grey;
-    text-decoration: none
+    text-decoration: none;
 }
 
-a:hover {
+/*a:hover {
     background-color: #eee;
     text-decoration: none
-}
+}*/
 
 a:active {
     color: grey;
@@ -245,7 +245,6 @@ img+em {
     justify-content: space-between;
     align-items: baseline;
     padding: 20px;
-    padding-bottom: 30px;
     background: black;
     border-radius: 10px;
 }
