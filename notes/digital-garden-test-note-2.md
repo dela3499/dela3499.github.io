@@ -1,12 +1,13 @@
 ---
-title: Digital Garden Test $Note '2'
-page_url: digital-garden-test-note-2
-layout: note
-date_created: 2020-05-13
-date_updated: 2020-05-13
+
 backlinks:
-  - name: Digital Garden Test Note 1
-    url: digital-garden-test-note-1
+- {name: Digital Garden Test Note 1, url: digital-garden-test-note-1}
+date_created: !!python/unicode '2020-05-14'
+date_updated: !!python/unicode '2020-05-14'
+page_url: digital-garden-test-note-2
+title: Digital Garden Test $Note '2'
+
+
 ---
 
 
@@ -23,5 +24,6 @@ I guess I may as well create a new outline here just for fun.
 
 - [Digital Garden Test Note 1](digital-garden-test-note-1){:target="_blank"}
 - [Digital Garden Test $Note '2'](digital-garden-test-note-2){:target="_blank"}
+
 
 

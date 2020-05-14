@@ -1,12 +1,13 @@
 ---
-title: Digital Garden Test Note 1
-page_url: digital-garden-test-note-1
-layout: note
-date_created: 2020-05-13
-date_updated: 2020-05-13
+
 backlinks:
-  - name: Digital Garden Test $Note '2'
-    url: digital-garden-test-note-2
+- {name: Digital Garden Test $Note '2', url: digital-garden-test-note-2}
+date_created: !!python/unicode '2020-05-14'
+date_updated: !!python/unicode '2020-05-14'
+page_url: digital-garden-test-note-1
+title: Digital Garden Test Note 1
+
+
 ---
 
 
@@ -28,5 +29,6 @@ I'll also include an outline here.
 # New Section Mofos!
 
 Here's a tag link to [Digital Garden Test $Note '2'](digital-garden-test-note-2){:target="_blank"}. Not only does it test my ability to handle tags, it also tests that I don't show multiple backlinks to this note in [Digital Garden Test $Note '2'](digital-garden-test-note-2){:target="_blank"}.
+
 
 
