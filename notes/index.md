@@ -1,8 +1,8 @@
 ---
 
 backlinks: []
-date_created: !!python/unicode '2020-05-14'
-date_updated: !!python/unicode '2020-05-14'
+date_created: '2020-05-14'
+date_updated: '2020-05-14'
 page_url: index
 title: Notes
 
