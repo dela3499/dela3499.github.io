@@ -273,10 +273,13 @@ img+em {
     margin-top: 10px
 }
 
+.header ul li + li {
+    padding-left: 5px
+}
+
 .header ul li {
     display: inline;
     padding: 0;
-    padding-left: 5px
 }
 
 .blog {
@@ -573,4 +576,8 @@ img+em {
 
 .sort a {
     color: grey;
+}
+
+ul {
+    list-style: disc;
 }
