@@ -3,21 +3,33 @@
 layout: base
 
 ---
-<div class="post post__list">
+<div class="post">
 
     <div class="post__title">
     	<h1>{{ page.title }}</h1>
     </div>
     <div class="sort">
-        <a href="sorted-by-last-edit">(Sort by update date instead)</a>
+        <a href="updated">(Sort by update date instead)</a>
     </div>
     <!-- <div class="post__date"><p>{{ page.date | date: "%B %e, %Y" }}</p></div> -->
 
-    <ul>
+<!--     <ul>
         {% for p in page.pages %}
         <li id={{ p.page_url }}><a target="_blank" href="{{ p.page_url }}">{{ p.title }}</a></li>
         {% endfor %}
-    </ul>
+    </ul> -->
+
+    <div class="post__list">
+    {% assign date_groups = page.pages | group_by: 'date_created' %}
+        {% for date_group in date_groups %}
+            <div class="date_group" id="{{ date_group.name }}">
+                <h3>{{date_group.name | date: "%B %-d, %Y" }}</h3>
+                {% for p in date_group.items %}
+                    <div class="page_link"><a target="_blank" href="{{ p.page_url }}">{{ p.title }}</a>
+                {% endfor %}
+            </div>
+        {% endfor %}
+    </div>
 
 </div>
 
