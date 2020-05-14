@@ -595,9 +595,13 @@ ul {
     list-style: disc;
 }
 
-.post .all_notes {
+.all_notes .post {
     border: 1px solid grey;
     padding: 20px;
     margin-top: 20px;
     border-radius: 10px;    
+}
+
+.all_notes h1 a {
+    color: black;
 }

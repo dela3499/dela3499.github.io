@@ -14,7 +14,11 @@ layout: base
     <div class="post" id="{{ note.page_url }}">
 
         <div class="post__title">
-        	<h1>{{ note.title }}</h1>
+            <h1>
+                <a href="#{{ note.page_url }}">
+                    {{ note.title }}
+                </a>
+            </h1>
         </div>        
         <div class="post__content">{{ note.content_with_hash_links | markdownify }}</div>
 
