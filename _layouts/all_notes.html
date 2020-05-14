@@ -23,7 +23,7 @@ layout: base
             <h2>Links to this note</h2>
             {% for backlink in note.backlinks %}
                 <div>
-                    <a target="_blank" href="{{ backlink.url }}">
+                    <a href="#{{ backlink.url }}">
                         {{ backlink.name }}
                     </a>
                 </div>
