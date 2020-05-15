@@ -34,14 +34,27 @@ notes:
   page_url: digital-garden-test-note-2
   title: Digital Garden Test $Note '2'
 - backlinks: []
-  content_with_hash_links: "\n\nHowdy! These are my notes on artificial general intelligence\
-    \ and related interests. You can explore them in several ways: \n\n- [Browse by\
-    \ creation date](https://carlosd.org/notes/created)\n- [Browse by when they were\
-    \ last updated](https://carlosd.org/notes/updated)\n- [Scroll through all my notes\
-    \ on one page](https://carlosd.org/notes/all)\n\nBtw, I use [Roam](http://roamresearch.com/)\
-    \ to write my notes, and then I export some of them here using a script I wrote.\
-    \ Here's a [twitter thread](https://twitter.com/dela3499/status/1260421394938114055?s=20)\
-    \ with more info.\n\n\n"
+  content_with_hash_links: '
+
+
+    Howdy! These are my notes on artificial general intelligence and related interests.
+    You can explore them in several ways: [missing note](#missing-note)
+
+
+    - [Browse by creation date](https://carlosd.org/notes/created)
+
+    - [Browse by when they were last updated](https://carlosd.org/notes/updated)
+
+    - [Scroll through all my notes on one page](https://carlosd.org/notes/all)
+
+
+    Btw, I use [Roam](http://roamresearch.com/) to write my notes, and then I export
+    some of them here using a script I wrote. Here''s a [twitter thread](https://twitter.com/dela3499/status/1260421394938114055?s=20)
+    with more info.
+
+
+
+    '
   date_created: '2020-05-14'
   date_updated: '2020-05-14'
   page_url: index

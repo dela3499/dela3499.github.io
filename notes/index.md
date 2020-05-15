@@ -12,7 +12,7 @@ title: Notes
 
 
 
-Howdy! These are my notes on artificial general intelligence and related interests. You can explore them in several ways: 
+Howdy! These are my notes on artificial general intelligence and related interests. You can explore them in several ways: [missing note](missing-note){:target="_blank"}
 
 - [Browse by creation date](https://carlosd.org/notes/created)
 - [Browse by when they were last updated](https://carlosd.org/notes/updated)
