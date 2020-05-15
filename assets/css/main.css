@@ -145,10 +145,10 @@ a {
     text-decoration: underline;
 }
 
-a:visited {
+/*a:visited {
     color: grey;
     text-decoration: none;
-}
+}*/
 
 /*a:hover {
     background-color: #eee;
@@ -418,10 +418,14 @@ img+em {
     margin-bottom: 15px
 }
 
-.post__content a:hover {
+/*.post__content a:hover {
     border-bottom: 1px solid #1A0DAB;
     background-color: transparent;
     text-decoration: none
+}*/
+
+a:hover {
+    text-decoration: none;
 }
 
 .post__content strong {
@@ -596,7 +600,7 @@ ul {
 }
 
 .all_notes .post {
-    border: 1px solid grey;
+    border: 1px solid rgba(0,0,0,0.2);
     padding: 20px;
     margin-top: 20px;
     border-radius: 10px;    
