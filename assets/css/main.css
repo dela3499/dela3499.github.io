@@ -543,6 +543,7 @@ a:hover {
     border-top: 1px solid rgba(0,0,0,0.2);
     border-top: 1px solid rgba(0,0,0,0.2);
     margin: 30px 0;
+    margin-bottom: 0px;
 }
 
 .dates div {
