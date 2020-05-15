@@ -38,7 +38,7 @@ notes:
 
 
     Howdy! These are my notes on artificial general intelligence and related interests.
-    You can explore them in several ways: [missing note](#missing-note)
+    You can explore them in several ways: [missing note](#missing-note)[another note](#another-note)
 
 
     - [Browse by creation date](https://carlosd.org/notes/created)
