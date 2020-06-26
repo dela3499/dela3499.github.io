@@ -2,7 +2,7 @@
 
 backlinks: []
 date_created: '2020-05-14'
-date_updated: '2020-05-24'
+date_updated: '2020-06-26'
 layout: note
 page_url: now
 title: Now
@@ -14,11 +14,11 @@ title: Now
 
 ## Researching artificial general intelligence
 
-I'm currently exploring a [variety of questions](https://carlosd.substack.com/p/6-a-few-questions-on-agi), and sharing what I learn in these [notes](https://carlosd.org/notes) and in my [newsletter](http://carlosd.substack.com/) (where I hope to improve my writing, guided by Steven Pinker's [A Sense of Style](https://www.amazon.com/Sense-Style-Thinking-Persons-Writing/dp/0143127799)).
+I'm currently exploring a [variety of questions](https://carlosd.substack.com/p/6-a-few-questions-on-agi), and sharing what I learn in these [notes](https://carlosd.org/notes) and in my [newsletter](http://carlosd.substack.com/) (where I hope to improve my writing, guided by Steven Pinker's [A Sense of Style](https://www.amazon.com/Sense-Style-Thinking-Persons-Writing/dp/0143127799)). I'm also working on a short book.
 
 ## Making music
 
-I've gotten much better at drumming over the last few months (thanks to [Drumeo](drumeo.com)). Now I'm working on recording drum parts for my music, which is inspired by the prog rock band Rush and by various classical composers (e.g. Debussy). To improve my music, I'm also learning about music composition, music notation, and the art of storytelling in fiction.
+I've gotten much better at drumming over the last few months (thanks to [Drumeo](drumeo.com)). Now I'm working on recording drum parts for my music, which is inspired by the prog rock band Rush and by various classical composers (e.g. Debussy). To improve my music, I'm also learning about music composition, music notation, and the art of storytelling in fiction. Inspired by [Ichika Nito](https://www.youtube.com/channel/UCq3Wpi10SyZkzVeS7vzB5Lw), I'm recording 100 microsongs to put on Youtube.
 
 ## Roam book and Roam site generator
 
