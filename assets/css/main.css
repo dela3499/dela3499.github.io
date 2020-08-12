@@ -419,6 +419,10 @@ img+em {
     margin-bottom: 15px
 }
 
+.post__content li {
+    line-height: 150%;
+}
+
 /*.post__content a:hover {
     border-bottom: 1px solid #1A0DAB;
     background-color: transparent;
