@@ -588,6 +588,10 @@ a:hover {
     border-bottom: 1px solid rgba(0,0,0,0.1);
 }
 
+.post__list .date_group * {
+    margin-bottom: 10px;
+}
+
 .post__list h3 {
     font-size: 1.1em;
     padding-bottom: 5px;
@@ -597,9 +601,6 @@ a:hover {
     color: black;
 }
 
-.post__list .page_link {
-    padding-bottom: 5px;
-}
 
 .sort a {
     color: grey;
