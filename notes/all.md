@@ -168,19 +168,14 @@ notes:
     your notes as an API, as building blocks and stepping stones to become familiar
     with and build upon. This chunking of ideas helps you think about things at higher
     levels of abstraction, and takes things which might have been difficult to think
-    about before, and makes them easy. One note can also constrain other notes.
-
-
-    References
-
-
-    [The Use of Knowledge](#the-use-of-knowledge)
+    about before, and makes them easy. One note can also constrain other notes. This
+    is a special case of [The Use of Knowledge](#the-use-of-knowledge).
 
 
 
     '
   date_created: '2020-06-26'
-  date_updated: '2020-06-26'
+  date_updated: '2020-08-11'
   page_url: use-your-writing
   title: Use your writing
 - backlinks: []
@@ -337,7 +332,7 @@ notes:
     and their differences make such comparisons fruitful. Lessons learned in one domain
     can be applied to others. Many [questions about knowledge](#questions-about-knowledge)
     apply to __every__ system that depends on or creates it. I often try to apply
-    ideas about [AGI](#agi) to biological evolution, machine learning, and business,
+    ideas about [Minds](#minds) to biological evolution, machine learning, and business,
     and see whether they work. They often don''t, and I learn that they are special
     cases of more general things which __do__ apply in every case. The same is true
     of many [obstacles to knowledge-creation](#obstacles-to-knowledge-creation).
@@ -406,12 +401,12 @@ notes:
     \ they'll almost certainly be closely related, and one (or both) will link to\
     \ the other. Also, it's often useful to add an idea to a small outline in a separate\
     \ note (which is tagged as an outline). Often, one ends up working with a collection\
-    \ of ideas in a handful of related notes, and switching between them. \n\n\n\n\
-    ## References\n\n    - [The Life of a File](https://www.youtube.com/watch?v=XpDsk374LDE),\
-    \ Evan Czaplicki\n    - [Scaling Elm Apps](https://www.youtube.com/watch?v=DoA4Txr4GUs&feature=emb_title)\
+    \ of ideas in a handful of related notes, and switching between them. \n\n## References\n\
+    \n- [The Life of a File](https://www.youtube.com/watch?v=XpDsk374LDE), Evan Czaplicki\n\
+    - [Scaling Elm Apps](https://www.youtube.com/watch?v=DoA4Txr4GUs&feature=emb_title)\
     \ Richard Feldman\n\n\n"
   date_created: '2020-06-26'
-  date_updated: '2020-06-26'
+  date_updated: '2020-08-11'
   page_url: write-small-self-contained-notes
   title: Write small, self-contained notes
 - backlinks:
@@ -482,16 +477,24 @@ notes:
   page_url: create-boundaries-and-interfaces-between-ideas
   title: Create boundaries and interfaces between ideas
 - backlinks: []
-  content_with_hash_links: "\n\nHowdy! These are my notes on artificial general intelligence\
-    \ and related interests. You can explore them in several ways: \n\n- [Browse by\
-    \ creation date](https://carlosd.org/notes/created)\n- [Browse by when they were\
-    \ last updated](https://carlosd.org/notes/updated)\n- [Scroll through all notes\
-    \ on one page](https://carlosd.org/notes/all)\n\nBtw, I use [Roam](http://roamresearch.com/)\
-    \ to write my notes, and then I export some of them here using a script I wrote.\
-    \ Here's a [twitter thread](https://twitter.com/dela3499/status/1263650475884371968?s=20)\
-    \ with more info.\n\n\n"
+  content_with_hash_links: '
+
+
+    Howdy! These are my notes on [Minds](#minds), [Music](#music), [Life](#life),
+    and [Roam](#roa).
+
+
+    - [Browse by creation date](https://carlosd.org/notes/created)
+
+    - [Browse by when they were last updated](https://carlosd.org/notes/updated)
+
+    - [Scroll through all notes on one page](https://carlosd.org/notes/all)
+
+
+
+    '
   date_created: '2020-05-14'
-  date_updated: '2020-05-24'
+  date_updated: '2020-08-11'
   page_url: index
   title: Notes
 page_url: all

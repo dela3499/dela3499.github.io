@@ -13,7 +13,7 @@ title: Create boundaries and interfaces between ideas
 
 
 
-Boundaries make things tractable. They limit how much you have to keep in mind while you work on an idea. They help you [Break problems down into easier problems](break-problems-down-into-easier-problems){:target="_blank"}. Interfaces make things usable. They provide an quick description of the content of an idea and a way to refer to it, and therefore build on it. This is why you should [Write small, self-contained notes](write-small-self-contained-notes){:target="_blank"} and link them together. 
+Boundaries make things tractable. They limit how much you have to keep in mind while you work on an idea. They help you [Break problems down into easier problems](break-problems-down-into-easier-problems). Interfaces make things usable. They provide an quick description of the content of an idea and a way to refer to it, and therefore build on it. This is why you should [Write small, self-contained notes](write-small-self-contained-notes) and link them together. 
 
 The clearest and perhaps most important boundary is the page boundary, but every spacebar, comma, period, paragraph/block break, or outline indent also creates an important boundary.
 
@@ -31,7 +31,7 @@ Ironically, linking to a note using its descriptive title makes the connections 
 
 Working on boundaries and interfaces helps you better understand the ideas, incidentally, since you are working to find not only how to express them in a short, self-contained way, but also explicitly define the relationships between multiple such chunks. This has the effect of taking a very complex bundle of ideas and pulling it apart into distinct, coherent ideas with distinct, specific connections. So, this is largely about constraints. This is big with Elm, where the whole idea is that, as you scale up, you need to find ways to constrain things so that when you try to solve a bug, for instance, you can quickly determine a small set of possibilities, because only a few thing can possibly have affected the relevant code. If the system is less constrained, then many more things could have affected the code and caused the bug. Likewise here, one wants to specify the connections fairly precisely. Not quite for finding bugs.
 
-By the way, tags allow you to put a note in a certain __set__ of notes, and this is also a useful way to create boundaries. But, instead of being about making a single idea manageable, it's about how to [Chunk ideas into manageable groups using outlines](chunk-ideas-into-manageable-groups-using-outlines){:target="_blank"}.
+By the way, tags allow you to put a note in a certain __set__ of notes, and this is also a useful way to create boundaries. But, instead of being about making a single idea manageable, it's about how to [Chunk ideas into manageable groups using outlines](chunk-ideas-into-manageable-groups-using-outlines).
 
 References
 

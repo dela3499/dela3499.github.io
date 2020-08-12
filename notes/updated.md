@@ -13,7 +13,7 @@ pages:
   title: Avoid getting stuck}
 - {date_created: '2020-06-26', date_updated: '2020-06-26', page_url: break-the-writing-process-into-small-steps,
   title: Break the writing process into small steps}
-- {date_created: '2020-06-26', date_updated: '2020-06-26', page_url: use-your-writing,
+- {date_created: '2020-06-26', date_updated: '2020-08-11', page_url: use-your-writing,
   title: Use your writing}
 - {date_created: '2020-06-26', date_updated: '2020-06-26', page_url: prose-and-programs,
   title: Prose and Programs}
@@ -27,11 +27,11 @@ pages:
   title: The knowledge-based view}
 - {date_created: '2020-06-26', date_updated: '2020-06-26', page_url: prose-and-programs-are-fundamentally-different,
   title: Prose and programs are fundamentally different}
-- {date_created: '2020-06-26', date_updated: '2020-06-26', page_url: write-small-self-contained-notes,
+- {date_created: '2020-06-26', date_updated: '2020-08-11', page_url: write-small-self-contained-notes,
   title: 'Write small, self-contained notes'}
 - {date_created: '2020-06-26', date_updated: '2020-06-26', page_url: create-boundaries-and-interfaces-between-ideas,
   title: Create boundaries and interfaces between ideas}
-- {date_created: '2020-05-14', date_updated: '2020-05-24', page_url: index, title: Notes}
+- {date_created: '2020-05-14', date_updated: '2020-08-11', page_url: index, title: Notes}
 sort_field: date_updated
 title: All notes, sorted by update date
 

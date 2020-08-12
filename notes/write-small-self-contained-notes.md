@@ -8,7 +8,7 @@ backlinks:
 - {name: Break problems down into easier problems, url: break-problems-down-into-easier-problems}
 - {name: Create boundaries and interfaces between ideas, url: create-boundaries-and-interfaces-between-ideas}
 date_created: '2020-06-26'
-date_updated: '2020-06-26'
+date_updated: '2020-08-11'
 layout: note
 page_url: write-small-self-contained-notes
 title: Write small, self-contained notes
@@ -32,12 +32,10 @@ In some cases, this may be as simple as cutting and pasting a chunk of text into
 
 Since these ideas started off in a single note, they'll almost certainly be closely related, and one (or both) will link to the other. Also, it's often useful to add an idea to a small outline in a separate note (which is tagged as an outline). Often, one ends up working with a collection of ideas in a handful of related notes, and switching between them. 
 
-
-
 ## References
 
-    - [The Life of a File](https://www.youtube.com/watch?v=XpDsk374LDE), Evan Czaplicki
-    - [Scaling Elm Apps](https://www.youtube.com/watch?v=DoA4Txr4GUs&feature=emb_title) Richard Feldman
+- [The Life of a File](https://www.youtube.com/watch?v=XpDsk374LDE), Evan Czaplicki
+- [Scaling Elm Apps](https://www.youtube.com/watch?v=DoA4Txr4GUs&feature=emb_title) Richard Feldman
 
 
 

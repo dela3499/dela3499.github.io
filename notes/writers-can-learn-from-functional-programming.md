@@ -13,7 +13,7 @@ title: Writers can learn from functional programming
 
 
 
-Functional programmers use functions to write code in small, self-contained chunks. Writers can [Write small, self-contained notes](write-small-self-contained-notes){:target="_blank"}.
+Functional programmers use functions to write code in small, self-contained chunks. Writers can [Write small, self-contained notes](write-small-self-contained-notes).
 
 There are different reasons to create a new function:
 
