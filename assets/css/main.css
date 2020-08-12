@@ -571,6 +571,10 @@ a:hover {
     color: grey;
 }
 
+.backlink {
+    margin-bottom: 5px;
+}
+
 .post__list {
     margin-top: 30px;
 }
